@@ -7,12 +7,12 @@
 
 # Site settings
 title: Chris Bishop
-email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+email: Email goes here
+description: Add a description
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+
+github_username:  chrissb8
 
 # Build settings
 markdown: kramdown

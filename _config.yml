@@ -8,7 +8,7 @@
 # Site settings
 title: Chris Bishop
 email: Email goes here
-description: Add a description
+description: A personal website made for INLS 161
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 

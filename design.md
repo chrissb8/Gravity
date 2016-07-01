@@ -6,4 +6,4 @@ category: "design"
 tagline: "Some pictures of things"
 ---
 
-[imgl]: http://gri.unc.edu/files/2011/10/chapelhill.jpg "UNC Chapel Hill" [imgl]
+! [UNC](http://gri.unc.edu/files/2011/10/chapelhill.jpg)

@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: Pictures 
 permalink: /design/
 category: "design"
